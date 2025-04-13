@@ -1,6 +1,6 @@
 # 🔐 安全字符串转换器 - 专业的加密解密解决方案
 
-![工具截图]([https://via.placeholder.com/800x400?text=安全字符串转换器截图](https://xqhz.bailanyun.cn/yp/view.php/cfc64bb35c7f3c8ddbcecaf0bd77b07b.png))
+![工具截图]([https://xqhz.bailanyun.cn/yp/view.php/cfc64bb35c7f3c8ddbcecaf0bd77b07b.png])
 
 **安全字符串转换器**是一款专业的Web加密解密工具，采用多层加密算法，为您的敏感数据提供可靠的保护。支持：
 - 强大的字符串加密功能
